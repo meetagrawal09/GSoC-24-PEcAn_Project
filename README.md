@@ -4,7 +4,6 @@
 
 ### Mentors
 - Chris Black ([@infotroph](https://github.com/infotroph))
-- Michael Dietze ([@mdietze](https://github.com/mdietze))
 
 **Organisation** : [PEcAn Project](https://pecanproject.github.io)
 
